@@ -3,6 +3,6 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "manubraux/my_calculator"
+name = "my_calculator"
 version = "0.0.1"
 
