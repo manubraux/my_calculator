@@ -3,6 +3,6 @@ requires = ["setuptools", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "my_calculator"
+name = "ebraux-my-calculator"
 version = "0.0.1"
 
